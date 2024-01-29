@@ -17,5 +17,6 @@
 - 加入記分板紀錄兩玩家分數
 
 更新完成畫面:
+
 ![image](https://github.com/coconpou/-Implement-Vampire-Survivor-practice/blob/main/example_image/vampireSurvivor_2player.png?raw=true)
 
