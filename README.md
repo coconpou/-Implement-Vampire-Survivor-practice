@@ -3,3 +3,6 @@
 
 完成畫面:
 ![image](https://github.com/coconpou/-Implement-Vampire-Survivor-practice/blob/main/vampireSurvivor1.png?raw=true)
+
+更新，實作2Player且加入記分板:
+![image](https://github.com/coconpou/-Implement-Vampire-Survivor-practice/blob/main/example_image/vampireSurvivor_2player.png?raw=true)
