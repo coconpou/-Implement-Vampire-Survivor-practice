@@ -12,7 +12,7 @@
 ![image](https://github.com/coconpou/-Implement-Vampire-Survivor-practice/blob/main/vampireSurvivor1.png?raw=true)
 
 自行加入額外更新，完成功能
--加入Player2(電腦玩家)，移動方式為隨機
--加入記分板紀錄兩玩家分數
+- 加入Player2(電腦玩家)，移動方式為隨機
+- 加入記分板紀錄兩玩家分數
 更新完成畫面:
 ![image](https://github.com/coconpou/-Implement-Vampire-Survivor-practice/blob/main/example_image/vampireSurvivor_2player.png?raw=true)
